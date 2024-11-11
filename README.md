@@ -17,6 +17,8 @@ The tables included are
                         Promotion
                         Sales
                         Stores
-There are 18 hidden Colomns in the Sample Dataset which can be enabled as per requirment. 
-The final project output is of 3 Pages view with analytical matrixs and charts.
+>>There are 18 hidden Colomns in the Sample Dataset which can be enabled as per requirment. 
+>>The final project output is of 3 Pages view with analytical matrixs and charts.
 
+Main Project file : Contoso Sales Calculation Poject.pbix
+Related Certificate from LinkedIN : CertificateOfCompletion_Power BI Data Modeling with DAX.pdf
